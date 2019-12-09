@@ -1,0 +1,48 @@
+Configuration0,471.4128
+Crates,386.0511,5
+Money,227.2831,6
+Routes,331.6025,4
+Government,331.7549,7
+Park,283.3955,3
+Flood,353.4027,2
+Religion,294.9922,2
+Traffic,287.731,3
+Table1 Marker,471.4128,2,0.5
+Table2 Marker,47.9364,1.561606,-0.5684972
+
+Configuration1,72.98471
+Crates,47.62369,1
+Money,48.63632,1
+Routes,50.99802,1
+Government,52.74799,1
+Park,48.07339,1
+Flood,49.27359,1
+Religion,1.112213,1
+Traffic,0,0
+Table1 Marker,544.3975,2,0.5
+Table2 Marker,31.33649,2.443835,-0.499824
+
+Configuration2,47.30029
+Crates,33.73877,1
+Money,32.28857,1
+Routes,25.22583,1
+Government,30.23895,1
+Park,42.6861,1
+Flood,41.94879,1
+Religion,1,1
+Traffic,40.11157,1
+Table1 Marker,22.56323,1.201808,-0.1691163
+Table2 Marker,591.6978,2,0.5
+
+Configuration3,36.91162
+Crates,30.83661,1
+Money,29.487,1
+Routes,18.92578,7
+Government,27.50006,1
+Park,30.01208,1
+Flood,28.92487,1
+Religion,25.41211,1
+Traffic,26.13452,3
+Table1 Marker,6.862732,2.748781,0.481775
+Table2 Marker,628.6094,2,0.5
+

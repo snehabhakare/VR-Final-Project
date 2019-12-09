@@ -1,0 +1,64 @@
+0 : Start config 1
+37.68422 : Activate Parks
+55.52119 : Activate Religion
+99.82029 : Activate Mysterious Crates
+102.2697 : Deactivate Mysterious Crates
+102.2826 : Activate Mysterious Crates
+104.8073 : Deactivate Mysterious Crates
+105.0948 : Activate Mysterious Crates
+105.2323 : Deactivate Mysterious Crates
+112.192 : Activate Money
+116.4068 : Deactivate Parks
+120.0165 : Deactivate Religion
+124.6941 : Activate Religion
+127.1939 : Deactivate Religion
+127.257 : Activate Religion
+128.3816 : Activate Bus Route
+128.5564 : Deactivate Bus Route
+132.694 : Activate Bus Route
+133.844 : Deactivate Bus Route
+133.8813 : Activate Bus Route
+139.1436 : Activate Government Buildings
+139.1703 : Activate Traffic
+141.5809 : Deactivate Traffic
+141.6433 : Activate Traffic
+148.681 : Deactivate Religion
+149.5435 : Activate Religion
+149.8558 : Deactivate Religion
+150.5185 : Activate Religion
+150.8056 : Deactivate Religion
+151.8561 : Activate Religion
+175.1171 : Grabbed Table2 marker
+212.0903 : Predicted Location Table1 2 0.5
+212.0903 : Predicted Location Table2 1.471885 -0.4179149
+212.0903 : End config 1
+212.0903 : Start config 2
+212.0903 : Predicted Location Table1 2 0.5
+212.0903 : Predicted Location Table2 2 0.5
+212.0903 : End config 2
+212.0903 : Predicted Location Table1 2 0.5
+212.0903 : Predicted Location Table2 2 0.5
+212.0903 : End config 2
+212.0903 : Predicted Location Table1 2 0.5
+212.0903 : Predicted Location Table2 2 0.5
+212.0903 : End config 2
+223.5019 : Activate Mysterious Crates
+223.5772 : Deactivate Mysterious Crates
+226.6392 : Activate Mysterious Crates
+230.1645 : Activate Money
+233.64 : Activate Bus Route
+236.2777 : Activate Government Buildings
+240.4019 : Deactivate Government Buildings
+241.401 : Activate Government Buildings
+360.2475 : Grabbed Table1 marker
+419.6344 : Predicted Location Table1 1.81346 -0.3760607
+419.6344 : Predicted Location Table2 2 0.5
+419.6344 : End config 2
+419.6344 : Start config 3
+421.909 : Predicted Location Table1 2 0.5
+421.909 : Predicted Location Table2 2 0.5
+421.909 : End config 3
+421.909 : Start config 0
+423.5959 : Predicted Location Table1 2 0.5
+423.5959 : Predicted Location Table2 2 0.5
+423.5959 : End config 0

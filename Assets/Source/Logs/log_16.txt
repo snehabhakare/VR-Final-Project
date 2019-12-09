@@ -1,0 +1,121 @@
+0 : Start config 0
+41.56945 : Activate Flood Zone
+42.08138 : Deactivate Flood Zone
+43.30674 : Activate Flood Zone
+71.96925 : Activate Mysterious Crates
+72.71964 : Deactivate Mysterious Crates
+75.55659 : Activate Mysterious Crates
+179.6786 : Deactivate Mysterious Crates
+179.969 : Activate Mysterious Crates
+180.2284 : Deactivate Mysterious Crates
+185.1278 : Activate Money
+185.4681 : Deactivate Money
+186.0651 : Activate Money
+226.2894 : Deactivate Money
+226.614 : Activate Money
+231.339 : Activate Bus Route
+268.1378 : Activate Government Buildings
+268.7378 : Deactivate Government Buildings
+268.9875 : Activate Government Buildings
+270.5005 : Deactivate Government Buildings
+272.2254 : Activate Government Buildings
+272.8003 : Deactivate Government Buildings
+288.0367 : Activate Government Buildings
+288.9235 : Deactivate Government Buildings
+290.5362 : Activate Government Buildings
+291.4363 : Deactivate Government Buildings
+292.0989 : Activate Government Buildings
+302.5989 : Activate Mysterious Crates
+351.3467 : Activate Religion
+352.9585 : Deactivate Religion
+353.6956 : Activate Religion
+362.6448 : Activate Traffic
+365.2199 : Deactivate Traffic
+365.7693 : Activate Traffic
+368.7694 : Deactivate Flood Zone
+370.5192 : Deactivate Mysterious Crates
+371.1069 : Activate Flood Zone
+371.9566 : Deactivate Flood Zone
+372.5691 : Activate Flood Zone
+375.0066 : Activate Parks
+375.7816 : Deactivate Parks
+377.2691 : Activate Parks
+377.9318 : Deactivate Parks
+413.6052 : Deactivate Flood Zone
+414.0051 : Activate Flood Zone
+414.5329 : Deactivate Flood Zone
+418.6553 : Deactivate Money
+426.2551 : Deactivate Traffic
+426.9924 : Activate Traffic
+442.3545 : Deactivate Government Buildings
+458.8294 : Deactivate Religion
+464.5662 : Activate Flood Zone
+465.4287 : Deactivate Flood Zone
+466.3911 : Activate Flood Zone
+468.2409 : Activate Mysterious Crates
+489.2905 : Activate Money
+499.178 : Activate Parks
+499.9407 : Deactivate Parks
+500.6407 : Activate Parks
+501.3286 : Deactivate Parks
+501.928 : Activate Parks
+503.9033 : Deactivate Parks
+504.5153 : Activate Parks
+548.5754 : Grabbed Table2 marker
+601.2338 : Predicted Location Table1 2 0.5
+601.2338 : Predicted Location Table2 1.870977 0.1036706
+601.2338 : End config 0
+601.2338 : Start config 1
+631.5837 : Grabbed Table1 marker
+650.4337 : Activate Mysterious Crates
+653.108 : Activate Parks
+653.808 : Deactivate Parks
+654.5325 : Activate Parks
+655.17 : Deactivate Parks
+655.695 : Activate Parks
+656.6953 : Activate Flood Zone
+659.0448 : Activate Government Buildings
+659.707 : Deactivate Government Buildings
+660.27 : Activate Government Buildings
+662.1573 : Activate Religion
+663.3696 : Activate Bus Route
+670.6207 : Activate Money
+711.0673 : Grabbed Table2 marker
+731.0161 : Predicted Location Table1 1.946776 0.2838202
+731.0161 : Predicted Location Table2 1.725277 -0.2022858
+731.0161 : End config 1
+731.0161 : Start config 2
+766.327 : Activate Flood Zone
+768.9887 : Activate Religion
+770.2517 : Activate Traffic
+770.6891 : Deactivate Traffic
+771.2013 : Activate Traffic
+773.8142 : Activate Parks
+774.4644 : Deactivate Parks
+775.0519 : Activate Parks
+787.0012 : Activate Mysterious Crates
+801.1873 : Grabbed Table1 marker
+805.9492 : Activate Money
+806.5372 : Deactivate Money
+807.0142 : Activate Money
+811.5625 : Activate Government Buildings
+812.1115 : Deactivate Government Buildings
+812.6863 : Activate Government Buildings
+814.4115 : Activate Bus Route
+845.998 : Predicted Location Table1 1.586056 -0.06853461
+845.998 : Predicted Location Table2 2 0.5
+845.998 : End config 2
+845.998 : Start config 3
+867.337 : Activate Mysterious Crates
+871.9613 : Activate Government Buildings
+873.1487 : Deactivate Government Buildings
+873.9741 : Activate Government Buildings
+876.0618 : Activate Bus Route
+876.7495 : Activate Traffic
+877.9122 : Activate Religion
+879.2747 : Activate Flood Zone
+879.887 : Activate Money
+904.361 : Grabbed Table1 marker
+913.8484 : Predicted Location Table1 1.406915 -0.2800283
+913.8484 : Predicted Location Table2 2 0.5
+913.8484 : End config 3

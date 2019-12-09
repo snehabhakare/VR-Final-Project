@@ -1,0 +1,149 @@
+0 : Start config 2
+24.58983 : Activate Bus Route
+32.55246 : Activate Mysterious Crates
+34.36432 : Deactivate Mysterious Crates
+35.0272 : Activate Mysterious Crates
+54.06393 : Deactivate Mysterious Crates
+54.63946 : Activate Mysterious Crates
+55.38873 : Deactivate Mysterious Crates
+56.50169 : Activate Money
+57.65118 : Deactivate Money
+58.11425 : Activate Money
+60.00143 : Activate Mysterious Crates
+64.42607 : Activate Government Buildings
+65.46323 : Deactivate Government Buildings
+65.98837 : Activate Government Buildings
+68.93829 : Deactivate Government Buildings
+69.57597 : Activate Government Buildings
+86.66436 : Activate Religion
+90.66425 : Activate Traffic
+100.5885 : Activate Parks
+102.8509 : Deactivate Parks
+103.3789 : Activate Parks
+105.3511 : Activate Flood Zone
+140.3365 : Deactivate Government Buildings
+140.949 : Activate Government Buildings
+141.4613 : Deactivate Government Buildings
+141.8988 : Activate Government Buildings
+142.4111 : Deactivate Government Buildings
+142.8112 : Activate Government Buildings
+168.2486 : Deactivate Flood Zone
+168.8987 : Activate Flood Zone
+169.4615 : Deactivate Flood Zone
+169.9361 : Activate Flood Zone
+171.4114 : Deactivate Parks
+171.9611 : Activate Parks
+172.774 : Deactivate Parks
+173.1989 : Activate Parks
+173.8357 : Deactivate Parks
+175.2481 : Deactivate Traffic
+175.7357 : Activate Traffic
+178.0356 : Deactivate Traffic
+178.5481 : Activate Traffic
+180.5106 : Deactivate Traffic
+181.7854 : Deactivate Religion
+182.2987 : Activate Religion
+185.0352 : Deactivate Religion
+185.523 : Activate Religion
+186.0734 : Deactivate Religion
+186.4477 : Activate Religion
+223.7973 : Deactivate Flood Zone
+224.3873 : Activate Flood Zone
+302.2461 : Grabbed Table1 marker
+316.2834 : Predicted Location Table1 1.523878 -0.4373524
+316.2834 : Predicted Location Table2 2 0.5
+316.2834 : End config 2
+316.2834 : Start config 3
+335.1953 : Activate Mysterious Crates
+338.0074 : Activate Bus Route
+340.4196 : Activate Government Buildings
+350.5819 : Activate Flood Zone
+352.0821 : Deactivate Flood Zone
+352.6071 : Activate Flood Zone
+353.5096 : Deactivate Flood Zone
+354.3945 : Activate Money
+357.4946 : Activate Parks
+359.1695 : Deactivate Parks
+385.5311 : Deactivate Government Buildings
+386.1813 : Activate Government Buildings
+386.8188 : Deactivate Government Buildings
+387.1934 : Activate Government Buildings
+392.9557 : Activate Traffic
+400.5805 : Deactivate Traffic
+401.0676 : Activate Traffic
+401.4431 : Deactivate Traffic
+402.1436 : Deactivate Bus Route
+402.5928 : Activate Bus Route
+403.2549 : Deactivate Bus Route
+404.0925 : Activate Religion
+427.2918 : Deactivate Government Buildings
+427.7044 : Activate Government Buildings
+428.0829 : Deactivate Government Buildings
+429.0669 : Activate Government Buildings
+430.6291 : Activate Flood Zone
+459.428 : Deactivate Flood Zone
+460.0902 : Activate Flood Zone
+460.6151 : Deactivate Flood Zone
+461.0278 : Activate Flood Zone
+461.4427 : Deactivate Flood Zone
+461.74 : Activate Flood Zone
+461.9897 : Deactivate Flood Zone
+463.1276 : Activate Flood Zone
+464.4027 : Activate Parks
+464.9395 : Deactivate Parks
+465.3274 : Activate Parks
+478.0021 : Deactivate Mysterious Crates
+478.4644 : Activate Mysterious Crates
+483.0513 : Activate Traffic
+486.0764 : Deactivate Traffic
+486.6641 : Activate Bus Route
+487.6772 : Deactivate Bus Route
+488.0768 : Activate Bus Route
+492.3266 : Activate Traffic
+505.7884 : Deactivate Traffic
+508.7139 : Grabbed Table1 marker
+517.5765 : Predicted Location Table1 2.012129 0.08236694
+517.5765 : Predicted Location Table2 2 0.5
+517.5765 : End config 3
+517.5765 : Start config 0
+528.2009 : Grabbed Table2 marker
+553.7009 : Activate Flood Zone
+559.3875 : Deactivate Flood Zone
+560.0005 : Activate Parks
+561.3633 : Deactivate Parks
+562.3247 : Activate Religion
+563.5145 : Activate Traffic
+565.8624 : Activate Government Buildings
+567.6247 : Activate Mysterious Crates
+568.8751 : Activate Money
+570.187 : Activate Bus Route
+613.9601 : Activate Flood Zone
+614.8457 : Deactivate Flood Zone
+621.3723 : Activate Flood Zone
+622.4985 : Deactivate Flood Zone
+625.4711 : Deactivate Traffic
+626.1338 : Activate Traffic
+678.7213 : Predicted Location Table1 2 0.5
+678.7213 : Predicted Location Table2 2.118182 0.1382985
+678.7213 : End config 0
+678.7213 : Start config 1
+691.6848 : Activate Mysterious Crates
+694.0471 : Activate Parks
+695.5589 : Activate Flood Zone
+695.9464 : Activate Money
+696.5837 : Deactivate Flood Zone
+697.4343 : Activate Flood Zone
+699.2214 : Activate Government Buildings
+699.6707 : Activate Traffic
+700.3082 : Activate Bus Route
+701.1083 : Activate Religion
+701.7708 : Deactivate Bus Route
+702.5199 : Activate Bus Route
+705.5204 : Deactivate Bus Route
+729.9323 : Deactivate Flood Zone
+730.67 : Activate Flood Zone
+730.9323 : Deactivate Flood Zone
+810.1389 : Grabbed Table2 marker
+823.2133 : Predicted Location Table1 2 0.5
+823.2133 : Predicted Location Table2 1.321106 -0.596549
+823.2133 : End config 1

@@ -1,0 +1,60 @@
+0 : Start config 2
+29.28991 : Activate Traffic
+43.40181 : Activate Religion
+51.12595 : Activate Mysterious Crates
+65.62532 : Activate Money
+76.38863 : Activate Flood Zone
+79.76373 : Deactivate Religion
+80.98861 : Activate Religion
+87.99997 : Activate Bus Route
+99.66197 : Grabbed Table1 marker
+130.0616 : Predicted Location Table1 2.244148 0.9140012
+130.0616 : Predicted Location Table2 2 0.5
+130.0616 : End config 2
+130.0616 : Start config 3
+130.0616 : Predicted Location Table1 2 0.5
+130.0616 : Predicted Location Table2 2 0.5
+130.0616 : End config 3
+130.0616 : Predicted Location Table1 2 0.5
+130.0616 : Predicted Location Table2 2 0.5
+130.0616 : End config 3
+130.0616 : Predicted Location Table1 2 0.5
+130.0616 : Predicted Location Table2 2 0.5
+130.0616 : End config 3
+134.0107 : Activate Government Buildings
+137.4609 : Activate Traffic
+139.5235 : Activate Bus Route
+144.3483 : Activate Money
+146.1981 : Activate Mysterious Crates
+148.1225 : Activate Parks
+158.8852 : Grabbed Table1 marker
+167.9719 : Deactivate Government Buildings
+169.034 : Activate Government Buildings
+178.2724 : Predicted Location Table1 1.950774 0.145256
+178.2724 : Predicted Location Table2 2 0.5
+178.2724 : End config 3
+178.2724 : Start config 0
+181.4716 : Activate Traffic
+188.3473 : Activate Bus Route
+191.6725 : Deactivate Bus Route
+192.5711 : Activate Bus Route
+193.9221 : Activate Government Buildings
+198.0474 : Activate Mysterious Crates
+201.9107 : Activate Money
+207.4343 : Grabbed Table2 marker
+229.0697 : Predicted Location Table1 2 0.5
+229.0697 : Predicted Location Table2 2.133833 0.02648449
+229.0697 : End config 0
+229.0697 : Start config 1
+233.0461 : Activate Bus Route
+235.3829 : Activate Traffic
+238.4836 : Activate Government Buildings
+243.8959 : Activate Mysterious Crates
+247.0459 : Activate Money
+250.545 : Grabbed Table2 marker
+255.5083 : Activate Flood Zone
+257.0581 : Deactivate Flood Zone
+257.8578 : Activate Flood Zone
+265.6822 : Predicted Location Table1 2 0.5
+265.6822 : Predicted Location Table2 2.157166 0.8225744
+265.6822 : End config 1

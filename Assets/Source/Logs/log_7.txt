@@ -1,0 +1,60 @@
+0 : Start config 3
+45.4687 : Activate Mysterious Crates
+71.44283 : Activate Parks
+72.7801 : Deactivate Parks
+74.05569 : Activate Parks
+80.50229 : Activate Money
+89.00457 : Activate Flood Zone
+103.7042 : Activate Government Buildings
+105.1547 : Deactivate Government Buildings
+105.8041 : Activate Government Buildings
+110.1045 : Activate Traffic
+113.9783 : Deactivate Traffic
+114.5287 : Activate Traffic
+119.2408 : Activate Bus Route
+120.3534 : Deactivate Bus Route
+120.9538 : Activate Bus Route
+123.0663 : Deactivate Traffic
+127.3035 : Deactivate Bus Route
+128.3661 : Activate Bus Route
+129.6035 : Deactivate Bus Route
+130.3157 : Activate Traffic
+138.1406 : Deactivate Flood Zone
+139.1028 : Activate Flood Zone
+139.5777 : Deactivate Flood Zone
+146.7909 : Activate Religion
+174.5389 : Grabbed Table1 marker
+255.761 : Predicted Location Table1 2.199375 0.8128989
+255.761 : Predicted Location Table2 2 0.5
+255.761 : End config 3
+255.761 : Start config 0
+273.1743 : Activate Parks
+293.4597 : Activate Traffic
+299.7862 : Activate Government Buildings
+301.8989 : Activate Money
+304.199 : Activate Mysterious Crates
+311.3729 : Activate Bus Route
+339.5594 : Grabbed Table2 marker
+361.1456 : Predicted Location Table1 2 0.5
+361.1456 : Predicted Location Table2 1.864425 -0.3559589
+361.1456 : End config 0
+361.1456 : Start config 1
+370.6465 : Activate Mysterious Crates
+374.046 : Activate Money
+375.2219 : Activate Parks
+376.0714 : Activate Flood Zone
+385.2709 : Activate Religion
+387.2077 : Activate Bus Route
+387.9453 : Activate Traffic
+400.8683 : Grabbed Table2 marker
+406.2059 : Predicted Location Table1 2 0.5
+406.2059 : Predicted Location Table2 1.601085 -0.4733028
+406.2059 : End config 1
+406.2059 : Start config 2
+412.2935 : Activate Mysterious Crates
+415.632 : Activate Religion
+416.6316 : Activate Traffic
+425.4301 : Grabbed Table1 marker
+429.0305 : Predicted Location Table1 2.254256 0.4732311
+429.0305 : Predicted Location Table2 2 0.5
+429.0305 : End config 2
