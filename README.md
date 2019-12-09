@@ -1,3 +1,11 @@
+# Instructions for running the VR application
+
+The application was developed for Oculus Rift S and Oculus Touch controllers. I would recommend to run this in the protospace in the library, I don't think that this will run in the VR classroom. The controller actions are:  
+* Point and click: Point the controller towards the icon you want to select and click the touchpad press/thumbstick.
+* Click: Touch the icon with controller and press trigger button.
+* Point and grab: Point the controller towards the icon you want to select and click the touchpad press/thumbstick and the grab buttton.
+* Grab: Touch the icon with controller and press grab button.  
+
 # Features of the VR application
 
 * Geo-spatial and socio-cultural information of the city  
